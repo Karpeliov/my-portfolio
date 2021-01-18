@@ -11,7 +11,9 @@ function Main() {
                     <h1>Alex Karpeliov</h1>
                     <p>Front-End Developer</p>
                 </div>
-                <div className={style.introPhoto}></div>
+                <div className={style.introPhoto}>
+                    <img src={""}  alt={"my_photo"}/>
+                </div>
             </div>
         </div>
     );
