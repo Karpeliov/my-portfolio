@@ -1,0 +1,29 @@
+.contact {
+    height: 100vh;
+    background-color: #c87b8d;
+
+}
+
+.contactContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.title {
+    background-color: #91293e;
+}
+
+.form {
+    width: 70%;
+    height: 300px;
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.button {
+
+
+}
